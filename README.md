@@ -14,31 +14,31 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>BOOTSTRAP </strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Sass </strong></span><br><br><br>
         <img height="64px" src="https://ivazz.com/wp-content/uploads/2021/05/sass-1.png">
+      </td>
+       <td width="20%" align="center">
+        <span><strong>JAVASCRIPT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Redux </strong></span><br><br><br>
         <img height="64px" src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30350/preview_image/ReduxLogo.jpg">
-      </td>
-       <td width="25%" align="center">
-        <span><strong>JAVASCRIPT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>React</strong>
