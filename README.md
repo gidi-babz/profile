@@ -36,34 +36,34 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Redux </strong></span><br><br><br>
         <img height="64px" src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30350/preview_image/ReduxLogo.jpg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-       <td width="25%" align="center">
+       <td width="20%" align="center">
         <span><strong>Next.js</strong></span><br><br><br>
         <img height="64px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+       <td width="20%" align="center">
         <span><strong>Typescript</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
       </td>
-       <td width="25%" align="center">
+       <td width="20%" align="center">
         <span><strong>MUI</strong></span><br><br><br>
         <img height="64px" src="https://v4.mui.com/static/logo.png">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://initialcommit.com/img/initialcommit/baby-git-release.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>React Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
       </td>
