@@ -64,6 +64,10 @@
         <img height="64px" src="https://initialcommit.com/img/initialcommit/baby-git-release.png">
       </td>
       <td width="20%" align="center">
+        <span><strong>Tailwind CSS</strong></span><br><br><br>
+        <img height="64px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>React Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
       </td>
