@@ -2,7 +2,7 @@
 ### Hi there, I'm Babatunde 👋
 
 - 🔭 I am a  junior front end web developer.
-- 🌱 I'm currently learning Front-End Web Development (HTML, CSS, JavaScript and React)
+- 🌱 I'm currently learning Front-End Web Development (HTML, CSS, JavaScript, React and the Next.js Framework).
 - 👯 I’m looking to collaborate on JavaScript, React Projects
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [Twitter](https://twitter.com/gidi_babz), [Linkedin](https://www.linkedin.com/in/babatunde-olowoyeye)
