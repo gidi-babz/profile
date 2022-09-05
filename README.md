@@ -1,6 +1,8 @@
-
-### Hi there, I'm Babatunde 👋
-
+<h1 align="left" id="gidi-babz-title">:wave: Hello there! I'm BABATUNDE </h1>
+<a href="#gidi-babz-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=gidi-babz&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Olowoyeye babatunde" align="right" />
+</a>
+ 
 - 🔭 I am a  junior front end web developer.
 - 🌱 I'm currently learning Front-End Web Development (HTML, CSS, JavaScript, React and the Next.js Framework).
 - 👯 I’m looking to collaborate on JavaScript, React Projects
@@ -75,5 +77,7 @@
   </tbody>
 </table>
 
-[![Olowoyeye Babatundegithub stats](https://github-readme-stats.vercel.app/api?username=gidi-babz&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gidi-babz/github-readme-stats)  
+
+
+[![OLOWOYEYE BABATUNDE's github activity graph](https://activity-graph.herokuapp.com/graph?username=gidi-babz&theme=react-dark)](https://github.com/gidi-babz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidi-babz&show_icons=true&theme=radical&layout=compact)](https://github.com/gidi-babz/github-readme-stats)
