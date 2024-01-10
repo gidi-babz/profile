@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gidi-babz&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Olowoyeye babatunde" align="right" />
 </a>
  
-- 🔭 I am a front end web developer.
+- 🔭 I am a  Software Developer.
 - 🌱 I work with Front-End Web Development technologies (HTML, CSS, JavaScript, React and the Next.js Framework).
 - 👯 I’m looking to collaborate on JavaScript, React Projects
 - 💬 Ask me about Software Development
